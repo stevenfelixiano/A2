@@ -1,0 +1,118 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/*ID Selectors*/
+
+#Banner {
+	text-align: center;
+	background-color: #6CF;
+	font-size: 36px;
+	margin-bottom: 30px;
+	padding-bottom: 8px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -8px;
+	text-decoration:
+; 		font-style: oblique;
+
+}
+
+#Nav_Bar {
+	text-align:center;
+	background-color:#F9C;
+	font-size:24px;
+	padding-bottom: 8px;
+	border-style:double;
+}
+
+#Main_content {
+	text-align: left;
+	background-color: #6CF;
+	font_size: 15px;
+	font-size: 24px;
+	left: 10px;
+	top: 10px;
+	right: 10px;
+	bottom: 10px;
+	text-indent: 10px;
+	text-height: 15px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-top: -40px;
+}
+
+#Footer {
+	text-align: center;
+	background-color: #0CF;
+	font_size: 9px;
+	font-family:"Trajan Pro";
+	margin-left: -10px;
+	margin-right: -10px;
+}
+#contactmiddle {
+	text-align:center;
+	font-size:36px;
+}
+/*tag selector*/
+
+Body {
+	background-color:#6CF;
+}
+
+/*class selector*/	
+.logodiazepam {
+	margin-left: 50px;
+}
+.tablecenter {
+	alignment-adjust:central;
+.guidelinemiddle {
+	text-align: center;
+	padding-bottom:10px;
+}
+.contactmiddle {
+	text-align:center;
+	font-size:36px;
+}
+#Main_content h2 {
+	text-align: center;
+}
+#Main_content table {
+	text-align: center;
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+}
+#Footer table tr td p {
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #000;
+}
+#Footer table tr td dl dt {
+	font-size: 9px;
+}
+.footersize {
+	font-size: 9px;
+	margin-bottom:
+	font-family: Arial, Helvetica, sans-serif;
+}
+#Footer table tr td {
+	font-size: 9px;
+	color: #FFF;
+}
+.floatimage {
+	float:right;
+}
+#Main_content h2 {
+	text-align: center;
+	font-family: aladin;
+	font-style: normal;
+	font-weight: 400;
+}
+.navfontproduct {
+	font-size: 60px;
+	word-spacing: 30px;
+}
+.footerfont {
+	font-size: 9px;
+	font-family:"Trajan Pro";
+}
